@@ -1,0 +1,10 @@
+{
+    "da_DK": {
+        "document.title": "Dansk",
+        "form1.namefield": "Navn"
+    },
+    "sv_SE": {
+        "document.title": "Svenska",
+        "form1.namefield": "Namn"
+    }
+}
